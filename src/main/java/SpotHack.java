@@ -4,6 +4,6 @@
 import static spark.Spark.*;
 public class SpotHack {
     public static void main(String[] args) {
-        get("/", (req, res) -> "Hello, World!");
+        get("/", (req, res) -> "ay lmao");
     }
 }
